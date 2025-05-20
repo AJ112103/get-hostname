@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rUyboxpi1bk=",
+  "success": true,
+  "projectFilePath": "/Users/dhruvjalan/Desktop/get-hostname/DeviceResolverApi/DeviceResolverApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/dhruvjalan/.nuget/packages/microsoft.aspnetcore.openapi/9.0.5/microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "/Users/dhruvjalan/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
