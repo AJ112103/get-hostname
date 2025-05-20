@@ -28,4 +28,5 @@
 /Users/dhruvjalan/Desktop/get-hostname/DeviceResolverApi/obj/Debug/net9.0/ref/DeviceResolverApi.dll
 /Users/dhruvjalan/Desktop/get-hostname/DeviceResolverApi/bin/Debug/net9.0/DeviceResolverApi.staticwebassets.runtime.json
 /Users/dhruvjalan/Desktop/get-hostname/DeviceResolverApi/obj/Debug/net9.0/compressed/dedbxsn5v2-fum8wavuwy.gz
-/Users/dhruvjalan/Desktop/get-hostname/DeviceResolverApi/obj/Debug/net9.0/compressed/gjr55oxd94-zdk3rnhz16.gz
+/Users/dhruvjalan/Desktop/get-hostname/DeviceResolverApi/obj/Debug/net9.0/DeviceResolverApi.sourcelink.json
+/Users/dhruvjalan/Desktop/get-hostname/DeviceResolverApi/obj/Debug/net9.0/compressed/gjr55oxd94-3d5cnoiek0.gz
